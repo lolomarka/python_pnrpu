@@ -1,0 +1,14 @@
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+./_dataset*
+./env
+./input
+./output
+./model.keras
+./training_1
